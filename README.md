@@ -1,4 +1,4 @@
-#120 Years of Olympics
+# 120 Years of Olympics
 For this project we are going to look at the relationship of the olimpyc athletes and their performance against their GDP 
 What are your data sources:
  https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
