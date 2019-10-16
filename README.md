@@ -1,5 +1,5 @@
 # 120 Years of Olympics
-For this project we are going to look at the relationship of the olimpyc athletes and their performance against their countries' GDP. 
+For this project we are going to look at the relationship of the olympic athletes and their performance against their countries' GDP. 
 
 What are your data sources:
 
