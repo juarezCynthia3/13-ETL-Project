@@ -4,15 +4,14 @@ For this project we are going to look at the relationship of the olimpyc athlete
 What are your data sources:
  https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
- https://www.kaggle.com/danofer/wb-poverty
+http://theunbrokenwindow.com/Development/MADDISON%20The%20World%20Economy--A%20Millennial.pdf
 
 
 What transformations: Pandas, SQL
 
+Where is data going to be loaded: PostgresSQL
 
-Where is data going to be loaded: PostgressSQL
-
-Additionally we wiil use the following:
+Additionally we will use the following:
 -HTML
 -CSS
 -JavaScript
