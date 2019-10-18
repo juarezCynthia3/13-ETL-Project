@@ -12,8 +12,3 @@ What transformations: Pandas, SQL
 
 Where is data going to be loaded: PostgresSQL
 
-Additionally we will use the following:
--HTML
--CSS
--JavaScript
--Bootstrap
