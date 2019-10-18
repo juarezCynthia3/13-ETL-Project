@@ -10,5 +10,5 @@ http://theunbrokenwindow.com/Development/MADDISON%20The%20World%20Economy--A%20M
 
 What transformations: Pandas, SQL
 
-Where is data going to be loaded: PostgresSQL
+Where is data going to be loaded: PyMongo
 
